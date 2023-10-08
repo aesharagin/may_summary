@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    background: url('https://trafaret-decor.ru/sites/default/files/2022-12/Фон%20для%20презентации%20по%20технологии%20для%20девочек%20%288%29_0.jpg');
+}
+
+.card {
+    width: 500px;
+    margin: 30px auto;
+    padding: 20px;
+
+    background-color: rgba(61, 61, 61, 0.6);
+    box-shadow: 0 10px 10px rgb(51, 51, 51);
+    border-radius: 10px;
+}
+
+.card-foto {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.card-title {
+    font-size: 30px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.card-text {
+    font-size: 20px;
+    color: rgb(121, 121, 121);
+    text-align: center;
+}
+
+.card-subtitle {
+    font-size: 20px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.card-list {
+    font-size: 16px;
+    color: gray;
+    padding-left: 0;
+    list-style-position: inside;  
+}
